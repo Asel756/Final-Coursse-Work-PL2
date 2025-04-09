@@ -1,0 +1,33 @@
+Project Requirement List
+In this project, I plan to build a simple Online Shopping Cart System using Java. Below are the main things my project needs to include to meet the goals I described earlier. These features will help the system work well and give a good experience to the user.
+
+Key Requirements:
+Add items to the cart:
+The user should be able to add products by typing in the product name and how many they want.
+
+Show what’s in the cart:
+The program should display a list of all the items currently added to the cart, with their names and quantities.
+
+Update item quantity:
+If the user wants to change the number of a certain product, they should be able to update it easily.
+
+Remove a specific item:
+The user should be able to remove any one item from the cart if they don’t want it anymore.
+
+Clear the whole cart:
+There should be an option to remove all items from the cart at once, like a “clear cart” button.
+
+Count total items:
+The system should show how many items in total are currently in the cart.
+
+Search for an item:
+The user should be able to check if a specific item is already in their cart.
+
+Menu for actions:
+I’ll make a simple text-based menu that lets users choose what they want to do (add, view, update, etc.).
+
+Use Java classes and objects:
+I’ll write the code using Object-Oriented Programming — like making a class for items and one for the shopping cart.
+
+Use collections to store data:
+I’ll use Java collections like ArrayList or HashMap to store and manage the cart items easily while the program is running.
