@@ -1,0 +1,24 @@
+Example 1:
+
+Input:
+1 (Choose Add Item)
+Item name: Apple
+Quantity: 3
+
+Output:Item added to the cart.
+
+
+Example 2:
+
+Input:
+2 (Choose View Cart)
+
+Output:
+Items in your cart:
+Apple (Quantity: 3)
+
+Example 3:
+
+Input:
+3 (Choose Remove Item)
+Item name: Apple
