@@ -3,7 +3,7 @@ Documentation
 
 This part is about how I built my shopping cart system in Java — what logic I used, how I stored the data, what functions I created, and what problems I faced while working on it. Since this was a beginner-level project, I tried to keep everything as clear and simple as possible, but still realistic.
 
-1. How the Program Works (Algorithms):
+1. How the Program Works:
 I didn’t use any complicated algorithms, just simple steps and checks to make sure everything works correctly. Here's what I did:
 
 When adding an item:
