@@ -1,0 +1,82 @@
+Documentation
+
+
+This part is about how I built my shopping cart system in Java — what logic I used, how I stored the data, what functions I created, and what problems I faced while working on it. Since this was a beginner-level project, I tried to keep everything as clear and simple as possible, but still realistic.
+
+1. How the Program Works (Algorithms):
+I didn’t use any complicated algorithms, just simple steps and checks to make sure everything works correctly. Here's what I did:
+
+When adding an item:
+The program checks if the item is already in the cart. If it is, it increases the quantity. If not, it adds the item as new.
+
+When updating quantity:
+The system finds the item in the list and updates the quantity to the new number entered by the user.
+
+When removing an item:
+It looks for the item name in the cart and removes it from the list.
+
+When clearing the cart:
+It just clears the whole list using one command.
+
+When searching:
+It checks the list to see if the item name exists and tells the user if it’s found or not.
+
+2. Data Structures I Used:
+To store the cart items, I used an ArrayList. It was easy to use and let me add, remove, and loop through the items.
+
+I also created a class called Item which had two things: the item’s name and quantity. Each product the user adds is stored as an object of this class.
+
+This way, everything was neat and easy to manage.
+
+3. Functions I Wrote:
+To avoid writing all the code in one place, I split everything into small functions. Here’s what each one does:
+
+addItem() – Adds a product or updates quantity if it already exists.
+
+viewCart() – Shows all items in the cart.
+
+updateItem() – Changes the quantity of a chosen item.
+
+removeItem() – Deletes an item from the cart.
+
+clearCart() – Empties the entire cart.
+
+searchItem() – Looks for a product by name.
+
+menu() – Shows a list of options for the user to choose from.
+
+Breaking the code like this made it easier to test and fix things.
+
+4. Challenges I Faced:
+I definitely had a few problems while working on this project:
+
+Repeating items:
+At first, when I added the same product twice, it showed up multiple times. Later, I fixed it by checking if the item was already in the cart and just increasing the quantity.
+
+Handling user input:
+If the user entered something wrong (like a letter instead of a number), the program sometimes crashed. I had to learn how to handle input better using try-catch or checks.
+
+Organizing the code:
+At first, I wrote everything in the main method, and it got messy. Later, I moved things into separate functions which made it cleaner and easier to understand.
+
+Understanding ArrayList:
+I hadn’t worked much with ArrayList before this, so I had to read and experiment to understand how to use it properly.
+
+Overall, I learned a lot from this project — not just about Java, but also about how to structure a program, work with lists, and think about what the user will need. It was fun and challenging at the same time, and I’m happy with what I was able to build.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
