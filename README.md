@@ -21,3 +21,6 @@ Store items using Java collections like ArrayList or HashMap.
 Build a simple menu in the console for user interaction.
 Improve coding and problem-solving skills through practice.
 Make the project easy to update with new features in the future.
+
+PRESENTATION:
+https://github.com/zakhida1/-Final-Coursework-Project.git
