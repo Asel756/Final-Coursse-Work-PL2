@@ -23,4 +23,4 @@ Improve coding and problem-solving skills through practice.
 Make the project easy to update with new features in the future.
 
 PRESENTATION:
-https://github.com/zakhida1/-Final-Coursework-Project.git
+https://www.canva.com/design/DAGlKrrbBPg/NOAGT-4FfRBQShQ2MkKg8A/edit?utm_content=DAGlKrrbBPg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
